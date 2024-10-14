@@ -39,7 +39,13 @@ Welcome to my GitHub profile! I'm passionate about solving problems through code
 ### 2. **Basic Calculator**  
    - **Description**: A simple calculator program implemented in C. It performs basic arithmetic operations such as addition, subtraction, multiplication, and division. The program is designed to take user input and return the result of the selected operation.  
    - **Technologies**: C  
-   - **Link**: [Basic Calculator](https://github.com/CDragonRanger/Calculator)  
+   - **Link**: [Basic Calculator](https://github.com/CDragonRanger/Calculator)
+
+### 3. **Grocery Store Management System**  
+   - **Description**: This is a C-based Grocery Store Management System that allows users to log in, create an account, view grocery items, search for specific items, and generate a bill for purchased items. It includes functionalities such as user authentication, item display, searching, and bill generation with discounts.  
+   - **Technologies**: C  
+   - **Link**: [Grocery Store Management System](https://github.com/CDragonRanger/C-Project-Bill-Management)  
+
 
 ## 📫 How to reach me:
 - **Email**: shashwatsolanki786@gmail.com
