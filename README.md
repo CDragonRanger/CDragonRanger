@@ -45,3 +45,4 @@ Welcome to my GitHub profile! I'm passionate about solving problems through code
 - **Email**: shashwatsolanki786@gmail.com
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/shashwat-solanki-546337152/)
 - **Instagram**: [Instagram Profile]()
+- **Codeforces**: [Codeforces Profile](https://codeforces.com/profile/OnShoreApple)
