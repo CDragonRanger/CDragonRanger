@@ -46,6 +46,10 @@ Welcome to my GitHub profile! I'm passionate about solving problems through code
    - **Technologies**: C  
    - **Link**: [Grocery Store Management System](https://github.com/CDragonRanger/C-Project-Bill-Management)  
 
+### 4. **Basic Tic-Tac-Toe Game**  
+   - **Description**: A simple C-based implementation of the classic Tic-Tac-Toe game. The game is designed for two players who take turns marking spaces on a 3×3 grid, aiming to place three of their marks in a horizontal, vertical, or diagonal row to win.  
+   - **Technologies**: C  
+   - **Link**: [Basic Tic-Tac-Toe Game](https://cdragonranger.github.io/Tic-Tac-Toe/)  
 
 ## 📫 How to reach me:
 - **Email**: shashwatsolanki786@gmail.com
