@@ -50,5 +50,5 @@ Welcome to my GitHub profile! I'm passionate about solving problems through code
 ## 📫 How to reach me:
 - **Email**: shashwatsolanki786@gmail.com
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/shashwat-solanki-546337152/)
-- **Instagram**: [Instagram Profile]()
+- **Instagram**: [Instagram Profile](https://www.instagram.com/onshoreapple/)
 - **Codeforces**: [Codeforces Profile](https://codeforces.com/profile/OnShoreApple)
