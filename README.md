@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/ae019061-a491-4563-bf24-0258abe9b13e)<div id="header" align="center">
+<div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/><br/>
 <img src="https://komarev.com/ghpvc/?username=CDragonRanger&style=flat-square&color=blue" alt=""/>
 <h1>
