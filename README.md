@@ -1,4 +1,4 @@
-<div id="header" align="center">
+![image](https://github.com/user-attachments/assets/ae019061-a491-4563-bf24-0258abe9b13e)<div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/><br/>
 <img src="https://komarev.com/ghpvc/?username=CDragonRanger&style=flat-square&color=blue" alt=""/>
 <h1>
@@ -17,7 +17,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="REACT" **alt="REACT" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NODE" **alt="NODE" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="PYTHON" **alt="PYTHON" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="FLASK" **alt="FLASK" width="40" height="40"/>
+  <img src="https://www.pngfind.com/pngs/m/128-1286693_flask-framework-logo-svg-hd-png-download.png" title="FLASK" **alt="FLASK" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="VUE" **alt="VUE" width="40" height="40"/>
   <img src="https://miro.medium.com/v2/resize:fit:1200/1*O6KluMvEBZ1cBL3EPo4tig.png" title="ELECTRON" **alt="ELECTRON" width="40" height="40"/>
   <img src="https://technical.ly/wp-content/uploads/2019/09/cesium-circle-1.png" title="CESIUM" **alt="CESIUM" width="40" height="40"/>
