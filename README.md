@@ -17,9 +17,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="REACT" **alt="REACT" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NODE" **alt="NODE" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="PYTHON" **alt="PYTHON" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="FLASK" **alt="FLASK" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="FLASK" **alt="FLASK" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="VUE" **alt="VUE" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original-wordmark.svg" title="ELECTRON" **alt="ELECTRON" width="40" height="40"/>
+  <img src="https://miro.medium.com/v2/resize:fit:1200/1*O6KluMvEBZ1cBL3EPo4tig.png" title="ELECTRON" **alt="ELECTRON" width="40" height="40"/>
   <img src="https://technical.ly/wp-content/uploads/2019/09/cesium-circle-1.png" title="CESIUM" **alt="CESIUM" width="40" height="40"/>
 </div>
 
