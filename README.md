@@ -41,7 +41,6 @@ Welcome to my GitHub profile! I'm passionate about solving problems through code
 ### 1. 🛰️ **RIDaM – Remote Imagery Data Management System**  
 - **Description**: A robust data management platform designed for handling remote sensing and satellite imagery datasets. Supports dataset pooling, validation, role-based access, and dynamic metadata tagging. Built for efficiency, modularity, and scale.  
 - **Tech Stack**: Vue.js, Flask, PostgreSQL, Bootstrap  
-- **Repo**: [RIDaM GitHub Repository](https://github.com/Shashwat-Solanki/ridam)
 
 ---
 
@@ -55,7 +54,7 @@ Welcome to my GitHub profile! I'm passionate about solving problems through code
 ### 3. 💬 **Dribbl – Real-Time Chat App**  
 - **Description**: A real-time messaging app inspired by WhatsApp. Features include live chat using WebSockets, typing indicators, message persistence, user authentication, and smooth UI transitions powered by Framer Motion.  
 - **Tech Stack**: React, Node.js, Express, PostgreSQL, Socket.io, Framer Motion  
-- **Status**: In Development
+- **Repo**: [N-Queens Solver](https://github.com/CDragonRanger/Dribbl)
 
 ---
 
@@ -63,7 +62,6 @@ Welcome to my GitHub profile! I'm passionate about solving problems through code
 - **Description**: A full-stack portfolio website that showcases your skills, projects, and personal brand. Built with React for the frontend, Node.js and PostgreSQL for the backend. Includes theme switching, responsive layout, and clean design.  
 - **Tech Stack**: React, Node.js, PostgreSQL  
 - **Repo**: [My Website GitHub Repository](https://github.com/CDragonRanger/MyWebsite)  
-- **Live**: [Visit Site](https://cdragonranger.github.io/MyWebsite/)
 
 ---
 
