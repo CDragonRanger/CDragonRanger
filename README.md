@@ -21,6 +21,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="VUE" **alt="VUE" width="40" height="40"/>
   <img src="https://miro.medium.com/v2/resize:fit:1200/1*O6KluMvEBZ1cBL3EPo4tig.png" title="ELECTRON" **alt="ELECTRON" width="40" height="40"/>
   <img src="https://technical.ly/wp-content/uploads/2019/09/cesium-circle-1.png" title="CESIUM" **alt="CESIUM" width="40" height="40"/>
+  <img src="https://w7.pngwing.com/pngs/441/460/png-transparent-postgresql-plain-wordmark-logo-icon.png" title="POSTGRESQL" **alt="POSTGRESQL" width="40" height="40"/>
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CDragonRanger&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
